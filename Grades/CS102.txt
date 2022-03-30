@@ -1,6 +1,0 @@
-CS102 GRADES:
-Midterm Grade : 81.0
-Quiz Grade: 67.0
-LabWorks Grade :96.0
-Final Grade : 80.0
-Average Grade : 81.4
