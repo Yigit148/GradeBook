@@ -1,0 +1,6 @@
+PHYS102 GRADES:
+Midterm Grade : 85.0
+Attendance Grade: 100.0
+Homework Grade :100.0
+Final Grade : 75.0
+Average Grade : 81.5

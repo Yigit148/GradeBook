@@ -1,0 +1,6 @@
+ENEN102 GRADES:
+Midterm Grade : 100.0
+Assignment Grade: 100.0
+Participation Grade :100.0
+Final Grade : 100.0
+Average Grade : 100.0
