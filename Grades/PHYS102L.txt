@@ -1,0 +1,5 @@
+PHYS102L GRADES:
+Performance Grade : 90.0
+Quiz Grade :75.0
+Report Grade : 70.0
+Average Grade : 75.5

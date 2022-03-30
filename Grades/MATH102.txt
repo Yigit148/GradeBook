@@ -1,0 +1,5 @@
+MATH102 GRADES:
+Midterm Grade : 70.0
+Quiz_Homework Grade :92.0
+Final Grade : 80.0
+Average Grade : 71.4
